@@ -47,7 +47,7 @@ $('#example').czmChatSupport({
                 },
                 link: {
                     desktop: "https://web.whatsapp.com/send?phone=+6281224452338&text=Hi, Stenly!", /* Writing is required */
-                    mobile: "https://wa.me/081224452338/?text=Hi, Kax Stenly!" /* If it is hidden desktop link will be valid. To remove, (mobile:false) */
+                    mobile: "https://wa.me/+6281224452338/?text=Hi, Kax Stenly!" /* If it is hidden desktop link will be valid. To remove, (mobile:false) */
                 },
                 onlineDay: {
                     /* Change the day you are offline like this. (sunday:false) */
@@ -77,7 +77,7 @@ $('#example').czmChatSupport({
                 },
                 link: {
                     desktop: "https://web.whatsapp.com/send?phone=+6282198159714&text=Hi, Samuel!", /* Writing is required */
-                    mobile: "https://wa.me/082198159714/?text=Hi, Kax Samuel!" /* If it is hidden desktop link will be valid. To remove, (mobile:false) */
+                    mobile: "https://wa.me/+6282198159714/?text=Hi, Kax Samuel!" /* If it is hidden desktop link will be valid. To remove, (mobile:false) */
                 },
                 onlineDay: {
                     /* Change the day you are offline like this. (sunday:false) */
