@@ -8,7 +8,7 @@ $('#example').czmChatSupport({
         backgroundColor: "#10c379", /* Html color code */
         effect: 4, /* Button effect. Number between 1 and 7 */
         notificationNumber: "2", /* Custom text or false. To remove, (notificationNumber:false) */
-        speechBubble: "Ada yang bisa torang bantu?", /* To remove, (speechBubble:false) */
+        speechBubble: "Ada yang perlu torang bantu?", /* To remove, (speechBubble:false) */
         pulseEffect: false, /* To remove, (pulseEffect:false) */
         text: { /* For Button style larger than 1 */
             title: "Hubungi Team!", /* Writing is required */
