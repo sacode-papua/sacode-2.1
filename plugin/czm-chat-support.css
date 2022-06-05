@@ -47,7 +47,7 @@
 }
 .czm-fixed .czm-button {
     position: fixed;
-    bottom: 30px;
+    bottom: 80px;
 }
 .czm-right .czm-button {
     right: 30px;
@@ -1179,7 +1179,7 @@
     bottom: 120px;
 }
 .czm-chat-support-3 .czm-popup, .czm-chat-support-5 .czm-popup, .czm-chat-support-3 .czm-speech-bubble, .czm-chat-support-5 .czm-speech-bubble {
-    bottom: 100px;
+    bottom: 140px;
 }
 .czm-popup-person-offline {
     cursor: not-allowed;
@@ -2781,7 +2781,7 @@
 
 @media (max-width: 575px) {
     .czm-fixed .czm-button {
-        bottom: 20px;
+        bottom: 80px;
     }
     .czm-right .czm-button {
         right: 20px;
