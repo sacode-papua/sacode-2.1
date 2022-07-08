@@ -47,7 +47,37 @@ $('#example').czmChatSupport({
                 },
                 link: {
                     desktop: "https://web.whatsapp.com/send?phone=+6281224452338&text=Hi, Stenly!", /* Writing is required */
-                    mobile: "https://wa.me/+6281224452338/?text=Hi, Kax Stenly!" /* If it is hidden desktop link will be valid. To remove, (mobile:false) */
+                    mobile: "https://wa.me/+6281224452338/?text=Hello, Stenly!" /* If it is hidden desktop link will be valid. To remove, (mobile:false) */
+                },
+                onlineDay: {
+                    /* Change the day you are offline like this. (sunday:false) */
+                    sunday: "09:00-20:59",
+                    monday: "09:00-20:59",
+                    tuesday: "09:00-20:59",
+                    wednesday: "09:00-20:59",
+                    thursday: "09:00-20:59",
+                    friday: "09:00-20:59",
+                    saturday: "09:00-20:59"
+                }
+            },
+            /* [::End Copy::] */
+
+            /* Copy for more representatives [::Start Copy::] */
+            {
+                avatar: {
+                    src: '<img src="assets/img/whatsapp-avatars/septemina-waisimon.png" alt="Samuel Bosawer">', /* Font, Image or SVG */
+                    backgroundColor: "#10c379", /* Html color code */
+                    onlineCircle: true /* Avatar online circle. To remove, (onlineCircle:false) */
+                },
+                text: {
+                    title: "Septemina Waisimon", /* Writing is required */
+                    description: "Team SaCode", /* Custom text or false. To remove, (description:false) */
+                    online: "Sa Online", /* Custom text or false. To remove, (online:false) */
+                    offline: "Nanti sa kembali lagi" /* Custom text or false. To remove, (offline:false) */
+                },
+                link: {
+                    desktop: "https://web.whatsapp.com/send?phone=+6282198159714&text=Hi, Samuel!", /* Writing is required */
+                    mobile: "https://wa.me/+6285243688850/?text=Hello, Septemina!" /* If it is hidden desktop link will be valid. To remove, (mobile:false) */
                 },
                 onlineDay: {
                     /* Change the day you are offline like this. (sunday:false) */
@@ -77,7 +107,7 @@ $('#example').czmChatSupport({
                 },
                 link: {
                     desktop: "https://web.whatsapp.com/send?phone=+6282198159714&text=Hi, Samuel!", /* Writing is required */
-                    mobile: "https://wa.me/+6282198159714/?text=Hi, Kax Samuel!" /* If it is hidden desktop link will be valid. To remove, (mobile:false) */
+                    mobile: "https://wa.me/+6282198159714/?text=Hello, Samuel!" /* If it is hidden desktop link will be valid. To remove, (mobile:false) */
                 },
                 onlineDay: {
                     /* Change the day you are offline like this. (sunday:false) */
